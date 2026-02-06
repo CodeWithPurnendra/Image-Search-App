@@ -34,6 +34,19 @@ Example: https://your-app-name.vercel.app
 
 ## 📦 Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the repository
 ```bash
-git clone https://github.com/your-username/image-search-app.git
+git clone https://github.com/CodeWithPurnendra/RandomQuoteGenerator.git
+```
+### Navigate to the project folder
+```bash
+cd random-quote-generator
+```
+### Install dependencies
+```bash
+npm install
+```
+### Start the development server
+```bash
+npm run dev
+```
