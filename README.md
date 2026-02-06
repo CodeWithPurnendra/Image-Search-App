@@ -5,12 +5,6 @@ The app features a clean UI, fast search results, and responsive design for all 
 
 ---
 
-## 🚀 Live Demo
-> *(Add your deployed link here if available)*  
-Example: https://your-app-name.vercel.app
-
----
-
 ## ✨ Features
 
 - 🔍 Search high-quality images using keywords  
