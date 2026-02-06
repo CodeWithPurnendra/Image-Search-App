@@ -35,8 +35,8 @@ Example: https://your-app-name.vercel.app
 ## 📦 Installation & Setup
 
 ### Clone the repository
-```bash
-git clone https://github.com/CodeWithPurnendra/RandomQuoteGenerator.git
+```bash[
+git clone https://github.com/CodeWithPurnendra/Image-Search-App.git
 ```
 ### Navigate to the project folder
 ```bash
